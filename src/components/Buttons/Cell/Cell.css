@@ -1,0 +1,15 @@
+.cell{
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  height: 110px;
+  width: 110px;
+  box-sizing: border-box;
+  position: relative;
+  cursor: pointer;
+  border-radius: 15px;
+  background-color: rgba(0, 0, 0, 0.15);
+  margin: 5px;
+}

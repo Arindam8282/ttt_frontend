@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.game{
+  /* height: 250px; */
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+.g-header{
+  font-size: 35px;
+}
+.cover{
+  width: 360px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.block{
+  background-color: rgba(0, 0, 0, 0.15);
+}
+.g-status{
+  height: 50px;
+  width: 360px;
+  background-color: rgba(255, 196, 0, 0.41);
+  font-family: 'Pacifico',serif;
+  font-size: 30px;
+  text-align: center;
+  color: aliceblue;
+}

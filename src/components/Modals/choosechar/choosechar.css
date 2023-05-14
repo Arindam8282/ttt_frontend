@@ -1,0 +1,37 @@
+.c-char-modal{
+  background-color: rgba(0, 0, 0, 0.15);
+  box-sizing: border-box;
+  border-radius: 15px;
+  width: 360px;
+  /* height: 200px; */
+  /* position: absolute; */
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+  flex-direction: column;
+  /* flex-wrap: nowrap; */
+}
+
+.e-cover{
+  /* width: 200px; */
+  /* background-color: yellow; */
+  margin: 20px;
+  box-sizing: border-box;
+  border-radius: 15px;
+  /* overflow-y: scroll; */
+  gap: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.selected{
+  border-radius: 10px;
+  border: 1px solid rgba(232, 224, 224, 0.605);
+}
+.c-char-continue{
+  font-size: 28px;
+}
+.c-char-header{
+  color: white;
+  align-self: center;
+}

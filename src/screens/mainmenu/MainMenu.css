@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.name-header{
+  font-family: 'Pacifico',serif;
+  color: white;
+  font-size: 100px;
+}
+@media screen and (max-width: 960px) {
+  .name-header{
+    font-family: 'Pacifico',serif;
+    color: white;
+    font-size: 80px;
+  }
+}
+/* @media screen and (max-width: 480px) {
+  .name-header{
+    font-family: 'Pacifico',serif;
+    color: white;
+    font-size: 30px;
+  }
+} */
